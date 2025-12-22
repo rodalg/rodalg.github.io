@@ -4,7 +4,8 @@ title: "RESEARCH"
 permalink: /research
 ---
 
-| [**HOME**](./index.html)| [**RESEARCH**](./research.html)       | [**PEOPLE**](./members.html)          |  [**OUTREACH**](./outreach.html) |  [**NEWS**](./news.html) |
+| [**🌵 HOME**](./index.html)| [**📝 RESEARCH**](./research.html)       | [**👥 PEOPLE**](./members.html)          |  [**🔊 OUTREACH**](./outreach.html) |  [**📰 NEWS**](./news.html) |
+
 
 * * *
 # Research
