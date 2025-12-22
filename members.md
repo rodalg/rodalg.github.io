@@ -10,12 +10,20 @@ permalink: /members
 
 # Lab Members
 
-## Current
-- **Juan Manuel Palacios Corona**
-  - Undegrad student at CIDC-UAEM. He is currently exploring cell cycle on roots with determinate growth.
-- **Elsy Naomi Miranda Vargas**
-  - Undegrad student at UPEMOR. She is with us in a temporary research stay, giving the first steps on exploring ribosome biogenesis in wild-type and mutant plants of _A. thaliana_
+![Group_2025](./images/Group_2025.jpg)
 
+## Current
+- **Amisadai Toledano Ramos**
+  - Undegrad student at FCB-UAEM. She is currently working on her bachelor's thesis, exploring the development of extrafloral nectaries in _Turnera_ species.
+- **Elsy Naomi Miranda Vargas**
+  - Undegrad student at UPEMOR. She is currently working on her bachelor's thesis, exploring ribosome biogenesis in wild-type and mutant plants of _A. thaliana_
+- **Edson Javier Bautista Rodríguez**
+  - Undegrad student at CIDC-UAEM. He studies Bryophytes from xeric environments to dig into microbial endophytes and the role they have in making mosses and liverworts drough resistant species.
+- **Gilberto Vicente Guízar Sánchez**
+  - Undegrad student at CIDC-UAEM. During his volunteer stay at the lab, Gilberto has been working on 3D printing lab material and equipment. He is also designing new tools to make science on a budget.
+- **Juan Manuel Palacios Corona**
+  - He is currently preparing his master's project to officially re-join the lab after his bachelor. He will be studying root development in model and non-model species.
+    
 ## Former
 - **Joel Rodríguez Herrera**
   - _Research internship_ He was an undergrad student at CCG-UNAM. He worked on inferring transcriptional regulatory networks in the root apical meristem of dicot and monocot species.
