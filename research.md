@@ -17,10 +17,11 @@ Over the past few years, my research has focused on Cactaceae transcriptomics. I
 </p></div>
 
 ## Selected Publications
+* [**2025 [DOI]**](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70349) S. Napsucialy-Mendivil, HH. Torres-Martínez, **G. Rodríguez-Alonso**, DM. Rivera-Toro, R. Alvarez-Venegas, MA. Júarez-Verdayes, S. Shishkova, JG. Dubrovsky. _ARABIDOPSIS HOMOLOG OF TRITHORAX1_ impacts lateral root development by epigenetic regulation of targets involved in root system architecture. New Phytologist 247(5):2180-95.
 
 * [**2024 [DOI]**](https://books.google.com.mx/books?hl=en&lr=&id=qNMREQAAQBAJ&oi=fnd&pg=PA33&dq=root+RAM+exhaustion&ots=CUjnMXYiLG&sig=-reByUAxb_62WmMLlrlhXfUMGHg&redir_esc=y#v=onepage&q=root%20RAM%20exhaustion&f=false) Joseph Dubrovsky, **G Rodríguez-Alonso**. The Root Apical Meristem. Chapter 3 in: "Plant roots: The hidden half", 5th Edition. Beeckman & Eshel (editors), CRC Press. 
 
-* [**2024 [DOI]**](https://www.biorxiv.org/content/10.1101/2024.12.03.626639v1) Joel Rodriguez-Herrera; Kenia A. Galvan-Alcaraz, Ramses U. Albarran-Hernandez, Juan P. Villa-Nunez, Svetlana Shishkova **G Rodríguez-Alonso**. A computational Evo-Devo approach for elucidating the roles of PLETHORA transcription factors in regulating root development. bioRxiv 2024.12.03.626639
+* [**2025 [DOI]**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327511) J. Rodríguez-Herrera; KA. Galvan-Alcaraz, RU. Albarrán-Hernández, JP. Villa-Núñez, S. Shishkova **G. Rodríguez-Alonso**. A computational Evo-Devo approach for elucidating the roles of PLETHORA transcription factors in regulating root development. Plos One. 20(7):e0327511.
 
 * [**2023 [DOI]**](https://www.phytoneuron.net/wp-content/uploads/2023/12/54PhytoN-ArthraxonMorelos.pdf) JL Vigosa Mercado, **G Rodríguez-Alonso**. Nuevo registro de Arthraxon hispidus (Poaceae) para el Estado de Morelos, México. Phytoneuron. Digital Publications in Plant Biology. 
  
