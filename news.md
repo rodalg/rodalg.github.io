@@ -17,8 +17,7 @@ permalink: /news
 
 <h4><em> * Oct 16, 2024 </em> - A new graduate!</h4>
   Kenia Galván finished her bachelors in Genomic Sciences. She explored several -omics data to explore the genetic regulation of determinate growth in Cactaceae roots. The project faced some setbacks but she finally made it and she's now a Master student! Congrats, Kenia :)
-  
-    ![Kenia](./images/Kenia.jpg)
+      ![Kenia](./images/Kenia.jpg)
 <br>
 
 <h4><em> * Nov 29, 2023 </em> - We've got a new graduate!</h4>
