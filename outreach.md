@@ -10,8 +10,20 @@ permalink: /outreach.html
 
 # Outreach & SciComm
 
+### The struggle for life in the plant kingdom
+> Most of us recognize plants as self-suficient, making their own food from thin air and sunlight. Last semester two undergrad students did a short stay at the lab trying to diagnose Viscum and Psyttacanthus (mistletoes) infections around our University Campus. These two plant genus include parasitic species, which steal the nutrients from their host trees. At our campus, mistletoe is a growing problem and diagnosing it is but the first step in a remedial strategy.
+<br>
+
+![Mistletoe](./images/OutReach_2025_2.jpg)
+
 <div style="text-align: justify"><p style="font-size: 18px">
 At our lab, we understand that sharing our results is as important as generating them. We actively promote science outreach and communication efforts among our members, targeting diverse audiences, with a primary focus on the general public, whose taxes significantly fund our research. Below are some of our recent participation activities: </p></div>
+
+### Exploring the world of Cacti!
+> We visited an elementary school to share the wonders of Cactaceae species with children. This time we wanted to share with them about cacti diversity: in shape, geographical distribution, height, organs and even flowers. It is always great to see kids's faces when learning some cacti have true leaves, that some cacti don't have spines, or that the thrive also in jungles and not only deserts!
+<br>
+
+![Group](./images/OutReach_2025_3.jpg)
 
 ### Organizing [#SMBPlant2023](https://smbplant.quimica.unam.mx)
 > We are getting ready for #SMBPlants2023, the largest biochemistry and molecular plant biology meeting in México!
