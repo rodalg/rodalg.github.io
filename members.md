@@ -22,6 +22,8 @@ permalink: /members
   - Undegrad student at CIDC-UAEM. During his volunteer stay at the lab, Gilberto has been working on 3D printing lab material and equipment. He is also designing new tools to make science on a budget.
 - **Juan Manuel Palacios Corona**
   - He is currently preparing his master's project to officially re-join the lab after his bachelor. He will be studying root development in model and non-model species.
+- **Alexis Omar Campuzano González**
+  - Alexis finished his PhD using x-ray crystallography to understand the mechanisms of plant protease inhibitors. He is now using his skills as structural biologist to dig into intrinsically disoredered transcription factors and how they regulate root growth in _Arabidopsis_.
     
 ## Former
 - **Joel Rodríguez Herrera**
