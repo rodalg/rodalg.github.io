@@ -10,7 +10,7 @@ permalink: /members
 
 # Lab Members
 
-![Group_2025](./images/Group_2025.jpg)
+![Grupo_2025](./images/Grupo_2025.jpg)
 
 ## Current
 - **Amisadai Toledano Ramos**
