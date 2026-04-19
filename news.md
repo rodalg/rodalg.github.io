@@ -4,7 +4,7 @@ title: "NEWS"
 permalink: /news
 ---
 
-| [**🌵 HOME**](./index.html)| [**📝 RESEARCH**](./research.html)       | [**📚 PUBLICATIONS**](https://rodalg.github.io/publications.html) | [**👥 PEOPLE**](./members.html)          |  [**🔊 OUTREACH**](./outreach.html) |  [**📰 NEWS**](./news.html) |
+| [**🌵 HOME**](./index.html)| [**📝 RESEARCH**](./publications.html) | [**👥 PEOPLE**](./members.html)          |  [**🔊 OUTREACH**](./outreach.html) |  [**📰 NEWS**](./news.html) |
 
 
 * * *
