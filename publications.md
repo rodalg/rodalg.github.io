@@ -15,6 +15,7 @@ custom_js: publications
   <label for="filter-year">Year</label>
   <select id="filter-year">
     <option value="all">All years</option>
+    <option value="2026">2025</option>
     <option value="2025">2025</option>
     <option value="2024">2024</option>
     <option value="2023">2023</option>
@@ -29,14 +30,14 @@ custom_js: publications
   <select id="filter-topic">
     <option value="all">All topics</option>
     <option value="cactaceae">Cactaceae</option>
-    <option value="root-development">Root development</option>
+    <option value="root">Root</option>
     <option value="transcriptomics">Transcriptomics</option>
-    <option value="wood-development">Wood development</option>
+    <option value="development">Development</option>
     <option value="epigenetics">Epigenetics</option>
     <option value="phylogenetics">Phylogenetics</option>
-    <option value="taxonomy">Taxonomy / Floristics</option>
-    <option value="book-chapter">Book chapter</option>
-    <option value="review">Review / Education</option>
+    <option value="floristics">Floristics</option>
+    <option value="book-chapter">Chapter</option>
+    <option value="review">Review</option>
   </select>
   <span id="pub-count"></span>
 </div>
@@ -44,14 +45,24 @@ custom_js: publications
 <div id="no-results">No publications match the selected filters.</div>
 
 <div class="pub-year-group" data-year-group="2025">
+<h2>2026</h2>
+<div class="pub-entry" data-year="2026" data-topics="development epigenetics cactaceae">
+<p class="pub-title"><a href="https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcag046/8508627" target="_blank">Insights into the genetic bases of differential organ size in cactus flowers: a case study in two contrasting species</a></p>
+<p class="pub-authors">I. Rosas-Reinhold, CG. Ramirez-Castro, CR Cervantes Salcedo, <strong>G. Rodríguez-Alonso</strong>, A. Piñeyro-Nelson, U, Rosas, S. Arias</p>
+<p class="pub-venue">Annals of Botany, 2026</p>
+<div class="pub-tags"><span class="pub-tag">Development</span><span class="pub-tag">Cactaceae</span>></span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Phylogenetics</span></div>
+</div>
+</div>
+
+<div class="pub-year-group" data-year-group="2025">
 <h2>2025</h2>
-<div class="pub-entry" data-year="2025" data-topics="root-development epigenetics">
+<div class="pub-entry" data-year="2025" data-topics="root development epigenetics transcriptomics">
 <p class="pub-title"><a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70349" target="_blank">ARABIDOPSIS HOMOLOG OF TRITHORAX1 impacts lateral root development by epigenetic regulation of targets involved in root system architecture</a></p>
 <p class="pub-authors">S. Napsucialy-Mendivil, HH. Torres-Martínez, <strong>G. Rodríguez-Alonso</strong>, DM. Rivera-Toro, R. Alvarez-Venegas, MA. Júarez-Verdayes, S. Shishkova, JG. Dubrovsky</p>
 <p class="pub-venue">New Phytologist, 247(5): 2180–2195</p>
-<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Epigenetics</span><span class="pub-tag">Arabidopsis</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Epigenetics</span></div>
+<div class="pub-tags"><span class="pub-tag">Root</span><span class="pub-tag">Development</span><span class="pub-tag">Epigenetics</span><span class="pub-tag">Arabidopsis</span><span class="pub-tag">Transcriptomics</span></div>
 </div>
-<div class="pub-entry" data-year="2025" data-topics="root-development phylogenetics transcriptomics">
+<div class="pub-entry" data-year="2025" data-topics="root development phylogenetics transcriptomics">
 <p class="pub-title"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327511" target="_blank">A computational Evo-Devo approach for elucidating the roles of PLETHORA transcription factors in regulating root development</a></p>
 <p class="pub-authors">J. Rodríguez-Herrera, KA. Galvan-Alcaraz, RU. Albarrán-Hernández, JP. Villa-Núñez, S. Shishkova, <strong>G. Rodríguez-Alonso</strong></p>
 <p class="pub-venue">PLOS ONE, 20(7): e0327511</p>
