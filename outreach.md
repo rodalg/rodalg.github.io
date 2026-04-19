@@ -3,7 +3,7 @@ layout: default
 title: "RESEARCH"
 permalink: /outreach.html
 ---
-| [**🌵 HOME**](./index.html)| [**📝 RESEARCH**](./research.html)       | [**👥 PEOPLE**](./members.html)          |  [**🔊 OUTREACH**](./outreach.html) |  [**📰 NEWS**](./news.html) |
+| [**🌵 HOME**](./index.html)| [**📝 RESEARCH**](./research.html)      | [**📚 PUBLICATIONS**](https://rodalg.github.io/publications.html)  | [**👥 PEOPLE**](./members.html)          |  [**🔊 OUTREACH**](./outreach.html) |  [**📰 NEWS**](./news.html) |
 
 
 * * *
