@@ -19,9 +19,9 @@ custom_css: homepage
 
   <div class="hcard">
     <div class="hcard-icon">📝</div>
-    <h3 class="hcard-title">Our Research</h3>
-    <p class="hcard-desc">We generate genomic resources for Cactaceae and develop new model organisms for desert plant biology.</p>
-    <a class="hcard-link" href="https://rodalg.github.io/research.html">Learn more →</a>
+    <h3 class="hcard-title">Publications</h3>
+    <p class="hcard-desc">Browse our latest papers.</p>
+    <a class="hcard-link" href="https://rodalg.github.io/publications.html">See publications →</a>
   </div>
 
   <div class="hcard">
@@ -32,10 +32,10 @@ custom_css: homepage
   </div>
 
   <div class="hcard">
-    <div class="hcard-icon">📚</div>
-    <h3 class="hcard-title">Publications</h3>
-    <p class="hcard-desc">Browse our papers on root development, transcriptomics, wood formation, and more.</p>
-    <a class="hcard-link" href="https://rodalg.github.io/publications.html">See publications →</a>
+    <div class="hcard-icon">🔊</div>
+    <h3 class="hcard-title">Outreach</h3>
+    <p class="hcard-desc">We are committed to share our results with the general public. Take a look!</p>
+    <a class="hcard-link" href="https://rodalg.github.io/outreach.html">See More →</a>
   </div>
 
 </div>
