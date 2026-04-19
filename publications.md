@@ -48,13 +48,13 @@ custom_js: publications
 <p class="pub-title"><a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70349" target="_blank">ARABIDOPSIS HOMOLOG OF TRITHORAX1 impacts lateral root development by epigenetic regulation of targets involved in root system architecture</a></p>
 <p class="pub-authors">S. Napsucialy-Mendivil, HH. Torres-Martínez, <strong>G. Rodríguez-Alonso</strong>, DM. Rivera-Toro, R. Alvarez-Venegas, MA. Júarez-Verdayes, S. Shishkova, JG. Dubrovsky</p>
 <p class="pub-venue">New Phytologist, 247(5): 2180–2195</p>
-<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Epigenetics</span><span class="pub-tag">Arabidopsis</span></div>
+<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Epigenetics</span><span class="pub-tag">Arabidopsis</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Epigenetics</span></div>
 </div>
 <div class="pub-entry" data-year="2025" data-topics="root-development phylogenetics transcriptomics">
 <p class="pub-title"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327511" target="_blank">A computational Evo-Devo approach for elucidating the roles of PLETHORA transcription factors in regulating root development</a></p>
 <p class="pub-authors">J. Rodríguez-Herrera, KA. Galvan-Alcaraz, RU. Albarrán-Hernández, JP. Villa-Núñez, S. Shishkova, <strong>G. Rodríguez-Alonso</strong></p>
 <p class="pub-venue">PLOS ONE, 20(7): e0327511</p>
-<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Transcriptomics</span></div>
+<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Transcriptional Regulation</span></div>
 </div>
 </div>
 
@@ -84,7 +84,7 @@ custom_js: publications
 <p class="pub-title"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250584" target="_blank">A phylogenetic study of the members of the MAPK and MEK families across Viridiplantae</a></p>
 <p class="pub-authors">JM. González-Coronel, <strong>G. Rodríguez-Alonso</strong>, ÁA. Guevara-García</p>
 <p class="pub-venue">PLOS ONE, 16(4): e0250584</p>
-<div class="pub-tags"><span class="pub-tag">Phylogenetics</span><span class="pub-tag">MAPK signaling</span></div>
+<div class="pub-tags"><span class="pub-tag">Phylogenetics</span></div>
 </div>
 </div>
 
@@ -94,7 +94,7 @@ custom_js: publications
 <p class="pub-title"><a href="https://www.frontiersin.org/articles/10.3389/fpls.2019.00206/full" target="_blank">Lateral root primordium morphogenesis in angiosperms</a></p>
 <p class="pub-authors">HH. Torres-Martínez, <strong>G. Rodríguez-Alonso</strong>, S. Shishkova, JG. Dubrovsky</p>
 <p class="pub-venue">Frontiers in Plant Science, 10: 206</p>
-<div class="pub-tags"><span class="pub-tag">Root development</span></div>
+<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Review</span></div>
 </div>
 </div>
 
@@ -104,13 +104,13 @@ custom_js: publications
 <p class="pub-title"><a href="https://www.nature.com/articles/s41598-018-26897-1" target="_blank">Transcriptomics insights into the genetic regulation of root apical meristem exhaustion and determinate primary root growth in <em>Pachycereus pringlei</em> (Cactaceae)</a></p>
 <p class="pub-authors"><strong>G. Rodríguez-Alonso</strong>, M. Matvienko, ML. López-Valle, PE. Lázaro-Mixteco, S. Napsucialy-Mendivil, JG. Dubrovsky, S. Shishkova</p>
 <p class="pub-venue">Scientific Reports, 8: 8529</p>
-<div class="pub-tags"><span class="pub-tag">Cactaceae</span><span class="pub-tag">Root development</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">RNA-seq</span></div>
+<div class="pub-tags"><span class="pub-tag">Cactaceae</span><span class="pub-tag">Root development</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">GRN</span></div>
 </div>
 <div class="pub-entry" data-year="2018" data-topics="transcriptomics review">
 <p class="pub-title">Estudio del transcriptoma mediante RNA-SEQ con énfasis en las especies vegetales no modelo</p>
 <p class="pub-authors"><strong>G. Rodríguez-Alonso</strong>, S. Shishkova</p>
 <p class="pub-venue">Revista de Educación Bioquímica, 37: 75–88</p>
-<div class="pub-tags"><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Review / Education</span><span class="pub-tag">RNA-seq</span></div>
+<div class="pub-tags"><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Review</span><span class="pub-tag">RNA-seq</span></div>
 </div>
 </div>
 
@@ -120,14 +120,14 @@ custom_js: publications
 <p class="pub-title"><a href="https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full" target="_blank">Expression of the KNOTTED HOMEOBOX genes in the Cactaceae cambial zone suggests their involvement in wood development</a></p>
 <p class="pub-authors">J. Reyes-Rivera, <strong>G. Rodríguez-Alonso</strong>, E. Petrone, A. Vasco, F. Vergara-Silva, S. Shishkova, T. Terrazas</p>
 <p class="pub-venue">Frontiers in Plant Science, 8: 218</p>
-<div class="pub-tags"><span class="pub-tag">Cactaceae</span><span class="pub-tag">Wood development</span><span class="pub-tag">KNOX genes</span></div>
+<div class="pub-tags"><span class="pub-tag">Cactaceae</span><span class="pub-tag">Wood development</span><span class="pub-tag">Development</span><span class="pub-tag">Phylogenetics</span></div>
 </div>
 </div>
 
 <div class="pub-year-group" data-year-group="2013">
 <h2>2013</h2>
 <div class="pub-entry" data-year="2013" data-topics="phylogenetics">
-<p class="pub-title">Variability of non-symbiotic and truncated hemoglobin genes from the genome of cultivated monocots</p>
+<p class="pub-title"><a href="https://www.tandfonline.com/doi/full/10.4161/cib.27496" target="_blank">Variability of non-symbiotic and truncated hemoglobin genes from the genome of cultivated monocots</a></p>
 <p class="pub-authors"><strong>G. Rodríguez-Alonso</strong>, R. Arredondo-Peter</p>
 <p class="pub-venue">Communicative and Integrative Biology, 6: e27496</p>
 <div class="pub-tags"><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Plant genomics</span></div>
@@ -137,7 +137,7 @@ custom_js: publications
 <div class="pub-year-group" data-year-group="2011">
 <h2>2011</h2>
 <div class="pub-entry" data-year="2011" data-topics="review book-chapter">
-<p class="pub-title">Transfer of free radicals between proteins and membrane lipids: implications for aquatic biology</p>
+<p class="pub-title"><a href="https://onlinelibrary.wiley.com/doi/10.1002/9781444345988.ch16" target="_blank">Transfer of free radicals between proteins and membrane lipids: implications for aquatic biology</a></p>
 <p class="pub-authors">B. Valderrama, <strong>G. Rodríguez-Alonso</strong>, R. Pogni</p>
 <p class="pub-venue">In: Zenteno-Savin T. (ed.) <em>Oxidative Stress in Aquatic Ecosystems</em>. Wiley-Blackwell, pp. 224–235</p>
 <div class="pub-tags"><span class="pub-tag">Book chapter</span><span class="pub-tag">Biochemistry</span></div>
