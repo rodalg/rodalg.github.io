@@ -11,7 +11,7 @@ Research papers, book chapters, and other publications from the Xerophytes Lab a
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| [**🌵 HOME**](https://rodalg.github.io/index.html) | [**📝 RESEARCH**](https://rodalg.github.io/research.html) | [**👥 PEOPLE**](https://rodalg.github.io/members.html) | [**🔊 OUTREACH**](https://rodalg.github.io/outreach.html) | [**📰 NEWS**](https://rodalg.github.io/news.html) | [**📚 PUBLICATIONS**](https://rodalg.github.io/publications.html) |
+| [**🌵 HOME**](https://rodalg.github.io/index.html) | [**📝 RESEARCH**](https://rodalg.github.io/publications.html) | [**👥 PEOPLE**](https://rodalg.github.io/members.html) | [**🔊 OUTREACH**](https://rodalg.github.io/outreach.html) | [**📰 NEWS**](https://rodalg.github.io/news.html) |
 
 ---
 
