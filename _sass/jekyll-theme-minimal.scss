@@ -1,10 +1,13 @@
 @import "fonts";
 @import "rouge-github";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&display=swap');
+
 
 body {
   background-color: Gainsboro;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   color:#000000;
   font-weight:400;
 }
@@ -18,12 +21,24 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+p {
+  line-height: 1.8;
+  margin-bottom: 1.2em;
+}
+
 h1, h2, h3 {
-  line-height:1.1;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+  line-height: 1.3;
 }
 
 h1 {
   font-size:28px;
+}
+
+li {
+  line-height: 1.7;
+  margin-bottom: 0.3em;
 }
 
 h2 {
@@ -56,7 +71,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  max-width: 960px;
+  width: 90%;
   margin:0 auto;
 }
 
@@ -186,6 +202,7 @@ strong {
 }
 
 section {
+  max-width: 660px;
   width:500px;
   float:right;
   padding-bottom:50px;
