@@ -15,7 +15,7 @@ custom_js: publications
   <label for="filter-year">Year</label>
   <select id="filter-year">
     <option value="all">All years</option>
-    <option value="2026">2025</option>
+    <option value="2026">2026</option>
     <option value="2025">2025</option>
     <option value="2024">2024</option>
     <option value="2023">2023</option>
@@ -46,11 +46,11 @@ custom_js: publications
 
 <div class="pub-year-group" data-year-group="2025">
 <h2>2026</h2>
-<div class="pub-entry" data-year="2026" data-topics="development epigenetics cactaceae">
+<div class="pub-entry" data-year="2026" data-topics="development transcriptomics phylogenetics cactaceae">
 <p class="pub-title"><a href="https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcag046/8508627" target="_blank">Insights into the genetic bases of differential organ size in cactus flowers: a case study in two contrasting species</a></p>
 <p class="pub-authors">I. Rosas-Reinhold, CG. Ramirez-Castro, CR Cervantes Salcedo, <strong>G. Rodríguez-Alonso</strong>, A. Piñeyro-Nelson, U, Rosas, S. Arias</p>
 <p class="pub-venue">Annals of Botany, 2026</p>
-<div class="pub-tags"><span class="pub-tag">Development</span><span class="pub-tag">Cactaceae</span>></span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Phylogenetics</span></div>
+<div class="pub-tags"><span class="pub-tag">Development</span><span class="pub-tag">Cactaceae</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Transcriptional Regulation</span></div>
 </div>
 </div>
 
@@ -66,17 +66,17 @@ custom_js: publications
 <p class="pub-title"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327511" target="_blank">A computational Evo-Devo approach for elucidating the roles of PLETHORA transcription factors in regulating root development</a></p>
 <p class="pub-authors">J. Rodríguez-Herrera, KA. Galvan-Alcaraz, RU. Albarrán-Hernández, JP. Villa-Núñez, S. Shishkova, <strong>G. Rodríguez-Alonso</strong></p>
 <p class="pub-venue">PLOS ONE, 20(7): e0327511</p>
-<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Transcriptional Regulation</span></div>
+<div class="pub-tags"><span class="pub-tag">Root</span><span class="pub-tag">Development</span><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Transcriptional Regulation</span><span class="pub-tag">GRN</span></div>
 </div>
 </div>
 
 <div class="pub-year-group" data-year-group="2024">
 <h2>2024</h2>
-<div class="pub-entry" data-year="2024" data-topics="root-development book-chapter">
+<div class="pub-entry" data-year="2024" data-topics="root development chapter">
 <p class="pub-title"><a href="https://books.google.com.mx/books?id=qNMREQAAQBAJ" target="_blank">The Root Apical Meristem</a></p>
 <p class="pub-authors">JG. Dubrovsky, <strong>G. Rodríguez-Alonso</strong></p>
 <p class="pub-venue">Chapter 3 in <em>Plant Roots: The Hidden Half</em>, 5th Edition. Beeckman &amp; Eshel (eds.), CRC Press</p>
-<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Book chapter</span></div>
+<div class="pub-tags"><span class="pub-tag">Root</span><span class="pub-tag">development</span><span class="pub-tag">Book chapter</span></div>
 </div>
 </div>
 
@@ -86,7 +86,7 @@ custom_js: publications
 <p class="pub-title"><a href="https://www.phytoneuron.net/wp-content/uploads/2023/12/54PhytoN-ArthraxonMorelos.pdf" target="_blank">Nuevo registro de <em>Arthraxon hispidus</em> (Poaceae) para el Estado de Morelos, México</a></p>
 <p class="pub-authors">JL. Vigosa Mercado, <strong>G. Rodríguez-Alonso</strong></p>
 <p class="pub-venue">Phytoneuron — Digital Publications in Plant Biology</p>
-<div class="pub-tags"><span class="pub-tag">Taxonomy / Floristics</span><span class="pub-tag">Morelos</span></div>
+<div class="pub-tags"><span class="pub-tag">Floristics</span><span class="pub-tag">Morelos</span></div>
 </div>
 </div>
 
@@ -106,7 +106,7 @@ custom_js: publications
 <p class="pub-title"><a href="https://www.frontiersin.org/articles/10.3389/fpls.2019.00206/full" target="_blank">Lateral root primordium morphogenesis in angiosperms</a></p>
 <p class="pub-authors">HH. Torres-Martínez, <strong>G. Rodríguez-Alonso</strong>, S. Shishkova, JG. Dubrovsky</p>
 <p class="pub-venue">Frontiers in Plant Science, 10: 206</p>
-<div class="pub-tags"><span class="pub-tag">Root development</span><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Review</span></div>
+<div class="pub-tags"><span class="pub-tag">Root</span><span class="pub-tag">Development</span><span class="pub-tag">Phylogenetics</span><span class="pub-tag">Review</span></div>
 </div>
 </div>
 
@@ -116,10 +116,10 @@ custom_js: publications
 <p class="pub-title"><a href="https://www.nature.com/articles/s41598-018-26897-1" target="_blank">Transcriptomics insights into the genetic regulation of root apical meristem exhaustion and determinate primary root growth in <em>Pachycereus pringlei</em> (Cactaceae)</a></p>
 <p class="pub-authors"><strong>G. Rodríguez-Alonso</strong>, M. Matvienko, ML. López-Valle, PE. Lázaro-Mixteco, S. Napsucialy-Mendivil, JG. Dubrovsky, S. Shishkova</p>
 <p class="pub-venue">Scientific Reports, 8: 8529</p>
-<div class="pub-tags"><span class="pub-tag">Cactaceae</span><span class="pub-tag">Root development</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">GRN</span></div>
+<div class="pub-tags"><span class="pub-tag">Cactaceae</span><span class="pub-tag">Root</span><span class="pub-tag">Development</span><span class="pub-tag">Transcriptomics</span><span class="pub-tag">GRN</span></div>
 </div>
 <div class="pub-entry" data-year="2018" data-topics="transcriptomics review">
-<p class="pub-title">Estudio del transcriptoma mediante RNA-SEQ con énfasis en las especies vegetales no modelo</p>
+<p class="pub-title"><a href="https://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=84289" target="_blank">Estudio del transcriptoma mediante RNA-SEQ con énfasis en las especies vegetales no modelo</a></p>
 <p class="pub-authors"><strong>G. Rodríguez-Alonso</strong>, S. Shishkova</p>
 <p class="pub-venue">Revista de Educación Bioquímica, 37: 75–88</p>
 <div class="pub-tags"><span class="pub-tag">Transcriptomics</span><span class="pub-tag">Review</span><span class="pub-tag">RNA-seq</span></div>
@@ -128,11 +128,11 @@ custom_js: publications
 
 <div class="pub-year-group" data-year-group="2017">
 <h2>2017</h2>
-<div class="pub-entry" data-year="2017" data-topics="cactaceae wood-development">
+<div class="pub-entry" data-year="2017" data-topics="cactaceae development phylogenetics">
 <p class="pub-title"><a href="https://www.frontiersin.org/articles/10.3389/fpls.2017.00218/full" target="_blank">Expression of the KNOTTED HOMEOBOX genes in the Cactaceae cambial zone suggests their involvement in wood development</a></p>
 <p class="pub-authors">J. Reyes-Rivera, <strong>G. Rodríguez-Alonso</strong>, E. Petrone, A. Vasco, F. Vergara-Silva, S. Shishkova, T. Terrazas</p>
 <p class="pub-venue">Frontiers in Plant Science, 8: 218</p>
-<div class="pub-tags"><span class="pub-tag">Cactaceae</span><span class="pub-tag">Wood development</span><span class="pub-tag">Development</span><span class="pub-tag">Phylogenetics</span></div>
+<div class="pub-tags"><span class="pub-tag">Cactaceae</span><span class="pub-tag">Wood</span><span class="pub-tag">Development</span><span class="pub-tag">Phylogenetics</span></div>
 </div>
 </div>
 
