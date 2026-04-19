@@ -6,11 +6,6 @@ custom_js: publications
 ---
 
 # Publications
-
-Research papers, book chapters, and other publications from the Xerophytes Lab and from Gustavo Rodríguez-Alonso's earlier work. For the most current list, see his [Google Scholar profile](https://scholar.google.com/citations?user=ggAD8z0AAAAJ&hl=en).
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | [**🌵 HOME**](https://rodalg.github.io/index.html) | [**📝 RESEARCH**](https://rodalg.github.io/publications.html) | [**👥 PEOPLE**](https://rodalg.github.io/members.html) | [**🔊 OUTREACH**](https://rodalg.github.io/outreach.html) | [**📰 NEWS**](https://rodalg.github.io/news.html) |
 
 ---
