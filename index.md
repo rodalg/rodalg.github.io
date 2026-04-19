@@ -11,8 +11,7 @@ custom_css: homepage
 
 ![Pachycereus pringlei](https://rodalg.github.io/images/sonora.jpg)
 
-<p class="tagline">Desert plants have been solving drought for millions of years.<br>We're learning how.</p>
-
+<p class="tagline">Desert plants have been solving drought for millions of years. We're learning how.</p>
 <p class="tagline-sub">We study the genomics, transcriptomics, and molecular biology of Cactaceae and xeric shrubland species at the <a href="http://www.cidc.uaem.mx">CIDC – Autonomous University of Morelos (UAEM)</a>.</p>
 
 <div class="highlight-cards">
