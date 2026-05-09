@@ -1,39 +1,128 @@
 ---
 layout: default
-title: "People"
-permalink: /members
+title: People
+custom_css: members
 ---
-| [**🌵 HOME**](./index.html)| [**📝 RESEARCH**](./publications.html) | [**👥 PEOPLE**](./members.html)          |  [**🔊 OUTREACH**](./outreach.html) |  [**📰 NEWS**](./news.html) |
 
-* * *
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [**🌵 HOME**](https://rodalg.github.io/index.html) | [**📝 RESEARCH**](https://rodalg.github.io/research.html) | [**👥 PEOPLE**](https://rodalg.github.io/members.html) | [**🔊 OUTREACH**](https://rodalg.github.io/outreach.html) | [**📰 NEWS**](https://rodalg.github.io/news.html) | [**📚 PUBLICATIONS**](https://rodalg.github.io/publications.html) |
+
+---
 
 # Lab Members
 
-![Grupo_2025](./images/Grupo_2025.jpg)
+![Grupo_2025](https://rodalg.github.io/images/Grupo_2025.jpg)
 
-## Current
-- **Amisadai Toledano Ramos**
-  - Undegrad student at FCB-UAEM. She is currently working on her bachelor's thesis, exploring the development of extrafloral nectaries in _Turnera_ species.
-- **Elsy Naomi Miranda Vargas**
-  - Undegrad student at UPEMOR. She is currently working on her bachelor's thesis, exploring ribosome biogenesis in wild-type and mutant plants of _A. thaliana_
-- **Edson Javier Bautista Rodríguez**
-  - Undegrad student at CIDC-UAEM. He studies Bryophytes from xeric environments to dig into microbial endophytes and the role they have in making mosses and liverworts drough resistant species.
-- **Gilberto Vicente Guízar Sánchez**
-  - Undegrad student at CIDC-UAEM. During his volunteer stay at the lab, Gilberto has been working on 3D printing lab material and equipment. He is also designing new tools to make science on a budget.
-- **Juan Manuel Palacios Corona**
-  - He is currently preparing his master's project to officially re-join the lab after his bachelor. He will be studying root development in model and non-model species.
-- **Alexis Omar Campuzano González**
-  - Alexis finished his PhD using x-ray crystallography to understand the mechanisms of plant protease inhibitors. He is now using his skills as structural biologist to dig into intrinsically disoredered transcription factors and how they regulate root growth in _Arabidopsis_.
-    
-## Former
-- **Joel Rodríguez Herrera**
-  - _Research internship_ He was an undergrad student at CCG-UNAM. He worked on inferring transcriptional regulatory networks in the root apical meristem of dicot and monocot species.
-- **Kenia Aislinn Galván Alcaraz**
-  - _Graduated on Oct 2024_. She was working on RNA-seq and smallRNA-seq to explore the transcriptional regulation of determinate growth in _Carnegia gigantea_.
-- **Julieta Olvera Berruecos**
-  - _Graduated on Dec 2023_ Her project was focused on standardizing a protocol for High-molecular-weight DNA extraction from Cactaceae and other challenging species.
-- **Yuleimi Corín Pacheco Blancas**
-    * _Graduated on Dec 2022_. Corin's project was mainly focused on characterizing _Echinopsis mirabilis_ as a model species for Cactaceae, specifically for developmental and molecular studies.
-- **Ramsés Uriel Albarrán Hernández**
-    * _Graduated on May 2021_. Ramsés's project was focused on the phylogenetical analysis of the PLETHORA transcription factors, and their possible involvement in Cactaceae root determinate growth.
- 
+## Current Members
+
+<div class="members-grid">
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/amisadai.jpg" alt="Amisadai Toledano Ramos" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Amisadai Toledano Ramos</h3>
+      <p class="member-role">Undergraduate Student · FCB-UAEM</p>
+      <p class="member-desc">Currently working on her bachelor's thesis, exploring the development of extrafloral nectaries in <em>Turnera</em> species.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/elsy.jpg" alt="Elsy Naomi Miranda Vargas" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Elsy Naomi Miranda Vargas</h3>
+      <p class="member-role">Undergraduate Student · UPEMOR</p>
+      <p class="member-desc">Currently working on her bachelor's thesis, exploring ribosome biogenesis in wild-type and mutant plants of <em>A. thaliana</em>.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/edson.jpg" alt="Edson Javier Bautista Rodríguez" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Edson Javier Bautista Rodríguez</h3>
+      <p class="member-role">Undergraduate Student · CIDC-UAEM</p>
+      <p class="member-desc">Studies Bryophytes from xeric environments, digging into microbial endophytes and their role in drought resistance in mosses and liverworts.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/gilberto.jpg" alt="Gilberto Vicente Guízar Sánchez" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Gilberto Vicente Guízar Sánchez</h3>
+      <p class="member-role">Undergraduate Student · CIDC-UAEM</p>
+      <p class="member-desc">Working on 3D printing lab material and equipment, and designing new tools to make science on a budget.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/juanmanuel.jpg" alt="Juan Manuel Palacios Corona" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Juan Manuel Palacios Corona</h3>
+      <p class="member-role">Incoming Master's Student</p>
+      <p class="member-desc">Preparing his master's project to re-join the lab. He will be studying root development in model and non-model species.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/alexis.jpg" alt="Alexis Omar Campuzano González" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Alexis Omar Campuzano González</h3>
+      <p class="member-role">Postdoctoral Researcher</p>
+      <p class="member-desc">Using his expertise in x-ray crystallography and structural biology to study intrinsically disordered transcription factors and their regulation of root growth in <em>Arabidopsis</em>.</p>
+    </div>
+  </div>
+
+</div>
+
+---
+
+## Former Members
+
+<div class="members-grid former">
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/joel.jpg" alt="Joel Rodríguez Herrera" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Joel Rodríguez Herrera</h3>
+      <p class="member-role">Research Internship · CCG-UNAM</p>
+      <p class="member-desc">Worked on inferring transcriptional regulatory networks in the root apical meristem of dicot and monocot species.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/kenia.jpg" alt="Kenia Aislinn Galván Alcaraz" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Kenia Aislinn Galván Alcaraz</h3>
+      <p class="member-role">Graduated Oct 2024</p>
+      <p class="member-desc">Worked on RNA-seq and smallRNA-seq to explore the transcriptional regulation of determinate growth in <em>Carnegia gigantea</em>.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/julieta.jpg" alt="Julieta Olvera Berruecos" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Julieta Olvera Berruecos</h3>
+      <p class="member-role">Graduated Dec 2023</p>
+      <p class="member-desc">Focused on standardizing a protocol for high-molecular-weight DNA extraction from Cactaceae and other challenging species.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/corin.jpg" alt="Yuleimi Corín Pacheco Blancas" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Yuleimi Corín Pacheco Blancas</h3>
+      <p class="member-role">Graduated Dec 2022</p>
+      <p class="member-desc">Characterized <em>Echinopsis mirabilis</em> as a model species for Cactaceae, specifically for developmental and molecular studies.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/ramses.jpg" alt="Ramsés Uriel Albarrán Hernández" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Ramsés Uriel Albarrán Hernández</h3>
+      <p class="member-role">Graduated May 2021</p>
+      <p class="member-desc">Focused on the phylogenetic analysis of PLETHORA transcription factors and their possible involvement in Cactaceae root determinate growth.</p>
+    </div>
+  </div>
+
+</div>
