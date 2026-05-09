@@ -19,15 +19,6 @@ custom_css: members
 <div class="members-grid">
 
   <div class="member-card">
-    <img src="https://rodalg.github.io/images/members/amisadai.jpg" alt="Amisadai Toledano Ramos" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
-    <div class="member-info">
-      <h3 class="member-name">Amisadai Toledano Ramos</h3>
-      <p class="member-role">Undergraduate Student · FCB-UAEM</p>
-      <p class="member-desc">Currently working on her bachelor's thesis, exploring the development of extrafloral nectaries in <em>Turnera</em> species.</p>
-    </div>
-  </div>
-
-  <div class="member-card">
     <img src="https://rodalg.github.io/images/members/Nao_Profpng.png" alt="Elsy Naomi Miranda Vargas" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
     <div class="member-info">
       <h3 class="member-name">Elsy Naomi Miranda Vargas</h3>
@@ -37,7 +28,7 @@ custom_css: members
   </div>
 
   <div class="member-card">
-    <img src="https://rodalg.github.io/images/members/Edson.jpg" alt="Edson Javier Bautista Rodríguez" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <img src="https://rodalg.github.io/images/members/Edson.png" alt="Edson Javier Bautista Rodríguez" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
     <div class="member-info">
       <h3 class="member-name">Edson Javier Bautista Rodríguez</h3>
       <p class="member-role">Undergraduate Student · CIDC-UAEM</p>
@@ -69,6 +60,15 @@ custom_css: members
       <h3 class="member-name">Alexis Omar Campuzano González</h3>
       <p class="member-role">Postdoctoral Researcher</p>
       <p class="member-desc">Using his expertise in x-ray crystallography and structural biology to study intrinsically disordered transcription factors and their regulation of root growth in <em>Arabidopsis</em>.</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="https://rodalg.github.io/images/members/amisadai.jpg" alt="Amisadai Toledano Ramos" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <div class="member-info">
+      <h3 class="member-name">Amisadai Toledano Ramos</h3>
+      <p class="member-role">Undergraduate Student · FCB-UAEM</p>
+      <p class="member-desc">Currently working on her bachelor's thesis, exploring the development of extrafloral nectaries in <em>Turnera</em> species.</p>
     </div>
   </div>
 
