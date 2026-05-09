@@ -28,7 +28,7 @@ custom_css: members
   </div>
 
   <div class="member-card">
-    <img src="https://rodalg.github.io/images/members/elsy.jpg" alt="Elsy Naomi Miranda Vargas" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <img src="https://rodalg.github.io/images/members/Nao_Profpng.png" alt="Elsy Naomi Miranda Vargas" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
     <div class="member-info">
       <h3 class="member-name">Elsy Naomi Miranda Vargas</h3>
       <p class="member-role">Undergraduate Student · UPEMOR</p>
@@ -37,7 +37,7 @@ custom_css: members
   </div>
 
   <div class="member-card">
-    <img src="https://rodalg.github.io/images/members/edson.jpg" alt="Edson Javier Bautista Rodríguez" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <img src="https://rodalg.github.io/images/members/Edson.jpg" alt="Edson Javier Bautista Rodríguez" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
     <div class="member-info">
       <h3 class="member-name">Edson Javier Bautista Rodríguez</h3>
       <p class="member-role">Undergraduate Student · CIDC-UAEM</p>
@@ -46,7 +46,7 @@ custom_css: members
   </div>
 
   <div class="member-card">
-    <img src="https://rodalg.github.io/images/members/gilberto.jpg" alt="Gilberto Vicente Guízar Sánchez" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <img src="https://rodalg.github.io/images/members/Gil.png" alt="Gilberto Vicente Guízar Sánchez" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
     <div class="member-info">
       <h3 class="member-name">Gilberto Vicente Guízar Sánchez</h3>
       <p class="member-role">Undergraduate Student · CIDC-UAEM</p>
@@ -55,7 +55,7 @@ custom_css: members
   </div>
 
   <div class="member-card">
-    <img src="https://rodalg.github.io/images/members/juanmanuel.jpg" alt="Juan Manuel Palacios Corona" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
+    <img src="https://rodalg.github.io/images/members/JuanMa.png" alt="Juan Manuel Palacios Corona" class="member-photo" onerror="this.src='https://rodalg.github.io/images/members/placeholder.jpg'">
     <div class="member-info">
       <h3 class="member-name">Juan Manuel Palacios Corona</h3>
       <p class="member-role">Incoming Master's Student</p>
